@@ -1,0 +1,161 @@
+[ {
+  "exportId" : "6q7wkTehRdaLDJmBa_BEDQ",
+  "name" : "growLightsOn",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are the grow lights on? (OFF 12am-6am)",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "83wPD2ETTPeR3GTgkXxikA",
+  "name" : "emitters",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are all emitters flowing?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "FJti_LQZR_2Adr-5Hnymxw",
+  "name" : "quickConnects",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are all quick connects connected?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "FVu10jh2TseidD4QUU4fZQ",
+  "name" : "chillers",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are both chillers running between 70-90 degrees F?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "LvC65KoNR2aZbTsDUflnTw",
+  "name" : "channel",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "What is the value for `channel`?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "YNOxwN6CTU6uQhSHFp-ofQ",
+  "name" : "summary",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "What is the value for `summary`?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "Zg6qN7i8SGaFkvfMpd6dpw",
+  "name" : "postChannel",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "What is the value for `postChannel`?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "_9dIHcPhST-IKDegKhp2Eg",
+  "name" : "growLightsOn",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are the grow lights running properly? (OFF 10am-4pm)",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "_YL6fQBzRaOYLeG-Zyy52Q",
+  "name" : "nutrientTubs",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are both blue nutrient tubs at least 1/2 full?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "_tzIpIL3QfynIfde5iU6Ag",
+  "name" : "postChannel",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "What is the value for `postChannel`?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "b2b3VOrRSiKhHjiirpOwdw",
+  "name" : "quickConnects",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are all quick connects connected?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "bxEC48nAQyO9ojsVUp6fhg",
+  "name" : "emitters",
+  "paramType" : {
+    "exportId" : "Yes/No",
+    "name" : "Yes/No"
+  },
+  "question" : "Are all emitters flowing?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "oUbmXdr2Tqqv62VDrZtKAg",
+  "name" : "postChannel",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "What is the value for `postChannel`?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "pz4nlRozQ_GoYer2a8JT5Q",
+  "name" : "channel",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "What is the value for `channel`?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "vlnC4QkQQXWK5dVGxZ3TKQ",
+  "name" : "channel",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "What is the value for `channel`?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
+  "exportId" : "xWTs9z-nTF2CE_iZRgazYw",
+  "name" : "channel",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "What is the value for `channel`?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+} ]

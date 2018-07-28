@@ -1,0 +1,8 @@
+{
+  "name" : "R & D Systems Checklist",
+  "exportId" : "MyJyR2gjQ6uPV6EZeZ1Pgg",
+  "icon" : "👩‍🔬",
+  "requiredAWSConfigs" : [ ],
+  "requiredOAuth2ApiConfigs" : [ ],
+  "requiredSimpleTokenApis" : [ ]
+}
