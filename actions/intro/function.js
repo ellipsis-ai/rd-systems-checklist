@@ -1,4 +1,4 @@
-function(channel, ellipsis) {
+function(channels, ellipsis) {
   const intro = `
 :female-scientist: Hello, this is the R & D Systems Checklist reminder. 
 
@@ -14,7 +14,7 @@ function choiceFor(roomNumber) {
     label: `Room ${roomNumber}`,
     actionName: `run-room-${roomNumber}-checklist`,
     args: [
-      { name: "postChannel", value: channel }
+      { name: "channels", value: channels }
     ],
     allowOthers: true,
     allowMultipleSelections: true

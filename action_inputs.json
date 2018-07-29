@@ -39,16 +39,6 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
-  "exportId" : "LvC65KoNR2aZbTsDUflnTw",
-  "name" : "channel",
-  "paramType" : {
-    "exportId" : "Text",
-    "name" : "Text"
-  },
-  "question" : "What is the value for `channel`?",
-  "isSavedForTeam" : false,
-  "isSavedForUser" : false
-}, {
   "exportId" : "YNOxwN6CTU6uQhSHFp-ofQ",
   "name" : "summary",
   "paramType" : {
@@ -60,12 +50,12 @@
   "isSavedForUser" : false
 }, {
   "exportId" : "Zg6qN7i8SGaFkvfMpd6dpw",
-  "name" : "postChannel",
+  "name" : "channels",
   "paramType" : {
     "exportId" : "Text",
     "name" : "Text"
   },
-  "question" : "What is the value for `postChannel`?",
+  "question" : "For which channels? (space-separated)",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -90,12 +80,12 @@
   "isSavedForUser" : false
 }, {
   "exportId" : "_tzIpIL3QfynIfde5iU6Ag",
-  "name" : "postChannel",
+  "name" : "channels",
   "paramType" : {
     "exportId" : "Text",
     "name" : "Text"
   },
-  "question" : "What is the value for `postChannel`?",
+  "question" : "For which channels? (space-separated)",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
@@ -120,52 +110,32 @@
   "isSavedForUser" : false
 }, {
   "exportId" : "oUbmXdr2Tqqv62VDrZtKAg",
-  "name" : "postChannel",
+  "name" : "channels",
   "paramType" : {
     "exportId" : "Text",
     "name" : "Text"
   },
-  "question" : "What is the value for `postChannel`?",
-  "isSavedForTeam" : false,
-  "isSavedForUser" : false
-}, {
-  "exportId" : "pz4nlRozQ_GoYer2a8JT5Q",
-  "name" : "channel",
-  "paramType" : {
-    "exportId" : "Text",
-    "name" : "Text"
-  },
-  "question" : "What is the value for `channel`?",
+  "question" : "For which channels? (space-separated)",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
   "exportId" : "szrO2Lt2TD6GK6KZaYOzgQ",
-  "name" : "channel",
+  "name" : "channels",
   "paramType" : {
     "exportId" : "Text",
     "name" : "Text"
   },
-  "question" : "What is the value for `channel`?",
-  "isSavedForTeam" : false,
-  "isSavedForUser" : false
-}, {
-  "exportId" : "vlnC4QkQQXWK5dVGxZ3TKQ",
-  "name" : "channel",
-  "paramType" : {
-    "exportId" : "Text",
-    "name" : "Text"
-  },
-  "question" : "What is the value for `channel`?",
+  "question" : "For which channels? (space-separated)",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
   "exportId" : "xWTs9z-nTF2CE_iZRgazYw",
-  "name" : "channel",
+  "name" : "channels",
   "paramType" : {
     "exportId" : "Text",
     "name" : "Text"
   },
-  "question" : "What is the value for `channel`?",
+  "question" : "For which channels? (space separated)",
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 } ]

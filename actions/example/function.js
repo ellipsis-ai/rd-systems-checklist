@@ -1,11 +1,11 @@
-function(channel, ellipsis) {
-  ellipsis.success("Running…", {
+function(channels, ellipsis) {
+  ellipsis.success("", {
   next: {
     actionName: "run-room-2-checklist",
     args: [
       { name: "nutrientTubs", value: "Yes" },
       { name: "chillers", value: "No" },
-      { name: "postChannel", value: channel }
+      { name: "channels", value: channels }
     ]
   }
 });
