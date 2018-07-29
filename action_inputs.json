@@ -139,6 +139,16 @@
   "isSavedForTeam" : false,
   "isSavedForUser" : false
 }, {
+  "exportId" : "szrO2Lt2TD6GK6KZaYOzgQ",
+  "name" : "channel",
+  "paramType" : {
+    "exportId" : "Text",
+    "name" : "Text"
+  },
+  "question" : "What is the value for `channel`?",
+  "isSavedForTeam" : false,
+  "isSavedForUser" : false
+}, {
   "exportId" : "vlnC4QkQQXWK5dVGxZ3TKQ",
   "name" : "channel",
   "paramType" : {
