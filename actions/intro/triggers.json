@@ -1,5 +1,5 @@
 [ {
-  "text" : "run rd1 checklist in {channel}",
+  "text" : "run rd checklist in {channel}",
   "requiresMention" : true,
   "isRegex" : false,
   "caseSensitive" : false
