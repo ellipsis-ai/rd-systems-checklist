@@ -4,7 +4,7 @@ function(emitters, quickConnects, growLightsOn, channels, ellipsis) {
 const questionsAndAnswers = {
   "Emitters flowing": emitters,
   "Quick connects connected": quickConnects,
-  "Grow lights on (OFF 12am-6am)": growLightsOn
+  "Grow lights on (OFF 10am-4pm)": growLightsOn
 }
 support.postFor("R & D room 3", questionsAndAnswers, channels);
 }
